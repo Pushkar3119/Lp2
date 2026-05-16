@@ -1,0 +1,12 @@
+{
+  "name": "lp2-dummy-app",
+  "version": "1.0.0",
+  "description": "Dummy full stack application for cloud deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
