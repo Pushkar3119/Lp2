@@ -65,6 +65,9 @@ const htmlPage = "<!DOCTYPE html>\n" +
 "            <select id='category'>\n" +
 "                <option value='Task'>Task Management</option>\n" +
 "                <option value='Student'>Student Record</option>\n" +
+"                <option value='Blog'>Blog Post</option>\n" +
+"                <option value='Product'>Product Inventory</option>\n" +
+"                <option value='Event'>Event Registration</option>\n" +
 "            </select>\n" +
 "            <button type='submit'>Add Entry to Cloud Database</button>\n" +
 "        </form>\n" +
